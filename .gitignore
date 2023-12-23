@@ -15,3 +15,5 @@
 
 # data files
 **/data
+
+.vscode
